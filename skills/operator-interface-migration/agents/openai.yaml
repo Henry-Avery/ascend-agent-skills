@@ -1,0 +1,4 @@
+interface:
+  display_name: "Operator Interface Migration"
+  short_description: "Map operator contracts, updates and graph dependencies"
+  default_prompt: "Use $operator-interface-migration to map the reference calls to the target package and identify input, update and graph compatibility gaps."

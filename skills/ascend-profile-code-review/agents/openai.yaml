@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ascend Profiling Code Review"
+  short_description: "Trace Ascend profile costs to code and assess added latency"
+  default_prompt: "Use $ascend-profile-code-review to review this capture against its pinned code and assess evidence for added latency."
